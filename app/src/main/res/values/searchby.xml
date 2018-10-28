@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="searchby">
+        <item> آرایشگاه </item>
+        <item> محله</item>
+    </string-array>
+</resources>
